@@ -776,7 +776,7 @@
 			<key>PickerVariant</key>
 			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
@@ -1092,6 +1092,9 @@
 			<string>HfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenCanopy.efi</string>
+			<string>OpenUsbKbDxe.efi</string>
+			<string>UsbMouseDxe.efi</string>
+			<string>CrScreenshotDxe.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
